@@ -7,4 +7,4 @@ This repository is for homework assignments for Dr. Karimi, California State Uni
 The **first assignment** was building a creating an account and deploying a webpage. Viewable by selecting [aeczuniga.github.io (assignment I)](https://aeczuniga.github.io/)
 
 
-The **second assignment** discusses how the first assignment was created and includes a webpage (subpage) within the main webpage.
+The **second assignment** discusses how the first assignment was created and includes a webpage (subpage) within the main webpage. Viewable by selecting [aeczuniga.github.io (assignment II)](https://aeczuniga.github.io/subpage_1/)
