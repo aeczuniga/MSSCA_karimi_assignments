@@ -1,5 +1,5 @@
 # MSSCA_karimi_assignments
-This repository is for homework assignments for Dr. Karimi, California State University of San Marcos. It is not in your interest to utilize any of the information, there are errors. I am learning. This respository contains homework on GitHub and Python.
+This repository is for homework assignments for Dr. Karimi, California State University of San Marcos. It is not in your interest to utilize any of the information, there are errors. I am learning. 
 
 Main GitHub page [aeczuniga.github.io](https://aeczuniga.github.io/)
 
